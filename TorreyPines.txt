@@ -1,0 +1,10 @@
+Torrey Pines, CA
+4 4 3 4 5 4 4 3 5 5 4 3 4 4 3 4 5 4
+Mario:1:ffgh Mario:2:rrfgh Mario:3:ggh Mario:4:fggh Mario:5:fgh Mario:6:bfbh Mario:7:fgh Mario:8:gh Mario:9:ffggh
+Mario:10:ffbggh Mario:11:rgh Mario:12:h Mario:13:rrbggh Mario:14:fbggh Mario:15:ggh Mario:16:rfgh
+Mario:17:rffggh Mario:18:fgh
+Yoshi:1:rfrbgh Yoshi:2:rrrgggh Yoshi:3:gggh Yoshi:4:rfgh Yoshi:5:rrfbbggggg Yoshi:6:fgh Yoshi:7:fggh Yoshi:8:rfgh
+Yoshi:9:rfggh Yoshi:10:rffggh Yoshi:11:fbggh Yoshi:12:ggh Yoshi:13:rgggh Yoshi:14:fbgh Yoshi:15:bggh Yoshi:16:fggh
+Yoshi:17:frggh Yoshi:18:fgh
+Peach:1:fgh Peach:2:frgh Peach:3:ggh Peach:4:fgh Peach:5:rfggh Peach:6:fbfgh Peach:7:fgh Peach:8:ggh Peach:9:rrbh
+Peach:10:frggh Peach:11:fgggh Peach:12:gh Peach:13:fbgh Peach:14:fggh Peach:15:ggh Peach:16:fbgh Peach:17:frgh Peach:18:fggh
